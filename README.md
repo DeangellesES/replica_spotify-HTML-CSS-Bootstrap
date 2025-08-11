@@ -3,12 +3,12 @@
 <h2>📌 Sobre o Projeto</h2>
 <p>Réplica de uma versão do Spotify. Desenvolvido durante um curso de Bootstrap, para estudo e prática.</p>
 
-<h3>💻<a href="https://deangelleses.github.io/site_museu-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
+<h3>💻<a href="https://deangelleses.github.io/replica_spotify-HTML-CSS-Bootstrap/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
   <li><b>HTML</b></li>
-  <li><b>CSS</b></li>
+  <li><b>CSS</b> - Bootstrap</li>
 </ul>
 
 <h2>⚙️ Funcionalidades</h2>
