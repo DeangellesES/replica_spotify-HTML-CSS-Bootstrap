@@ -24,4 +24,5 @@
   <li>responsivo para todas as telas</li>
   <li>estrutura do html semântica</li>
   <li>transform: rotate(30deg) para rotacionar imagem</li>
+  <li>footer bem estruturado</li>
 </ul>
