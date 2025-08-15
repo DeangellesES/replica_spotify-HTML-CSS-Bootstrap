@@ -25,4 +25,5 @@
   <li>estrutura do html semântica</li>
   <li>transform: rotate(30deg) para rotacionar imagem</li>
   <li>footer bem estruturado</li>
+  <li>flex box utilizado</li>
 </ul>
