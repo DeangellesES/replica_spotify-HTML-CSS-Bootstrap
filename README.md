@@ -11,7 +11,7 @@
   <li><b>CSS</b> - Bootstrap - Responsivo</li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Clone de uma versão do Spotify</li>
 </ul>
